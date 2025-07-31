@@ -66,6 +66,9 @@ một số hình ảnh đemo
 <img width="578" height="234" alt="image" src="https://github.com/user-attachments/assets/8e15cdb4-a9a1-401c-9305-cdc42dc5c70b" />
 <img width="1891" height="936" alt="image" src="https://github.com/user-attachments/assets/82457e3f-cbda-4840-aa34-959a400fbc59" />
 <img width="1865" height="940" alt="image" src="https://github.com/user-attachments/assets/4dca00f4-8241-422d-a4f1-7a2570d1af53" />
+<img width="1916" height="944" alt="image" src="https://github.com/user-attachments/assets/5e1e102d-7f47-41e0-afb0-ef8af3ac29f6" />
+<img width="276" height="114" alt="image" src="https://github.com/user-attachments/assets/9d6dde13-25ba-4121-813e-ed7846a57a9a" />
+
 
 
 
