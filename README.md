@@ -42,6 +42,7 @@ Bước 3 : thiết lập backend và frontend
 - và php.int trong C:\xampp\php\php.ini xóa ; của dòng ";extension=zip" ->"extension=zip"
 
 Bước 4 : quay lại cmd ở bước 3 nhập: "cd Bitrix24_CRM_AutomationSuite\backend " -> npm install -g @nestjs/cli -> npm install -> npm run start:dev.
+
 tạo thêm 1 cmd nữa nhập : "cd Bitrix24_CRM_AutomationSuite\frontend"  -> composer install-> npm install -> npm run build -> php artisan serve.
 - cdm sẽ hiện thị localhost mới vd: "https://localmoi.ngrok.io"
 - quay lại ứng dụng cục bộ ở bước 2 -> Sửa đường dẫn xử lí 'https://localmoi.ngrok.io/callback' -> sửa đường dẫn ban đầu 'https://localmoi.ngrok.io' -> lưu.
